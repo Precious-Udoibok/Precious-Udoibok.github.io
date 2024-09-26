@@ -1,20 +1,17 @@
-# Data Scientist
+# Backend(Python FastAPI) Developer 
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+#### Skills and Technologies
+#### Programming Languages: Python, Python Tkinter
+#### Frameworks: FastAPI
+#### Databases: PostgreSQL
+#### Tools: Git, Postman
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**IT(Industrial Training) student @ KodeHauz Solutions Planets (_March 2024 - August 2024_)**
+- Developed an inventory management system for a car store, improving data processing speed and operational efficiency.
+- Worked on integrating Paystack for payment processing, allowing seamless handling of transactions via bank cards, resulting in a more secure and efficient payment flow.
+- Developed a Phone Inventory System api  consumed by the frontend team
+- Developed games(Snake games, Ping_Pong game, Turtle Racing game) using python tkiner
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
