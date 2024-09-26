@@ -1,23 +1,27 @@
 # Backend(Python FastAPI) Developer 
 
 #### Skills and Technologies
-#### Programming Languages: Python, Python Tkinter
-#### Frameworks: FastAPI
-#### Databases: PostgreSQL
-#### Tools: Git, Postman
+-Programming Languages: Python, Python Tkinter
+-Frameworks: FastAPI
+-Databases: PostgreSQL
+-Tools: Git, Postman
 
 ## Work Experience
 **IT(Industrial Training) student @ KodeHauz Solutions Planets (_March 2024 - August 2024_)**
 - Developed an inventory management system for a car store, improving data processing speed and operational efficiency.
+  
 - Worked on integrating Paystack for payment processing, allowing seamless handling of transactions via bank cards, resulting in a more secure and efficient payment flow.
+  
 - Developed a Phone Inventory System api  consumed by the frontend team
+  
 - Developed games(Snake games, Ping_Pong game, Turtle Racing game) using python tkiner
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Phone-Inventory-System-API
+[Phone Inventory System Swagger Documentation]([https://www.mdpi.com/1424-8220/22/8/3048](https://phone-inventory-system-api.onrender.com/docs))
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Developed a Phone Inventory System api using **Python FastAPI**. The Phone Inventory System API includes key features like: User authentication,CRUD operations for phones,CRUD operations for users. This system is designed to optimize inventory management and ensure accurate stock tracking, The Api was consume by the frontend team to develop the UI 
+[Phone Inventory system Dashboard ](https://inventorysystem-liart.vercel.app/dashboard)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
