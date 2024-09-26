@@ -1,10 +1,10 @@
 # Backend(Python FastAPI) Developer 
 
 #### Skills and Technologies
--Programming Languages: Python, Python Tkinter
--Frameworks: FastAPI
--Databases: PostgreSQL
--Tools: Git, Postman
+- Programming Languages: Python, Python Tkinter
+- Frameworks: FastAPI
+- Databases: PostgreSQL
+- Tools: Git, Postman
 
 ## Work Experience
 **IT(Industrial Training) student @ KodeHauz Solutions Planets (_March 2024 - August 2024_)**
@@ -18,12 +18,16 @@
 
 ## Projects
 ### Phone-Inventory-System-API
-[Phone Inventory System Swagger Documentation]([https://www.mdpi.com/1424-8220/22/8/3048](https://phone-inventory-system-api.onrender.com/docs))
+[Phone Inventory System Swagger Documentation](https://phone-inventory-system-api.onrender.com/docs)
 
-Developed a Phone Inventory System api using **Python FastAPI**. The Phone Inventory System API includes key features like: User authentication,CRUD operations for phones,CRUD operations for users. This system is designed to optimize inventory management and ensure accurate stock tracking, The Api was consume by the frontend team to develop the UI 
+Developed a Phone Inventory System api using **Python FastAPI**. The Phone Inventory System is designed to optimize inventory management and ensure accurate stock tracking. The Api was consume by the frontend team to develop the UI
+
 [Phone Inventory system Dashboard ](https://inventorysystem-liart.vercel.app/dashboard)
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+- Technologies: Python, FastAPI, PostgreSQL, Render
+- Key Features:  User authentication,CRUD operations for phones and CRUD operations for users
+
+![Inventory System ](assets/img/inventory 4.PNG)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
