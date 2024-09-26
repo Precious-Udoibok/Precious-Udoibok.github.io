@@ -84,6 +84,6 @@ The api was consumed by both the frontend and the mobile app development team
 
 
 ## Contact Information 
-- Email: preciousudoibok@gmail.com
-- LinkedIn: [LinkedIn Profile ](linkedin.com/in/precious-udoibok-b571b7306)
+- Email: <b>preciousudoibok@gmail.com</b>
+- LinkedIn: [LinkedIn ](https://www.linkedin.com/in/precious-udoibok-b571b7306/)
 - Twitter: [Twitter Handle ](https://x.com/adorable_presh)
