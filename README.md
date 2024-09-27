@@ -69,7 +69,7 @@ The api was consumed by both the frontend and the mobile app development team
   - Payment Processing
   - Audio File Processing
   - Word Quizzes
-  - Progress Tracking</b>
+  - Progress Tracking<b/>
   
 - <b>Technologies:
   - Python, FastAPI
@@ -77,7 +77,7 @@ The api was consumed by both the frontend and the mobile app development team
   - SQLAlchemy
   - Paystack API
   - SQLite/PostgreSQL
-  - Render</b>
+  - Render<b/>
 
 
 
