@@ -30,9 +30,10 @@ Developed a Phone Inventory System api using **Python FastAPI**. The Phone Inven
   - CRUD operations for users<b/>
 
 - <b>Technologies:
-  - Python,
-  - FastAPI,
-  - PostgreSQL,
+  - Python
+  - FastAPI
+  - PostgreSQL
+  - postman
   - Render<b/>
   
 
@@ -53,13 +54,15 @@ The Personal Portfolio API is a powerful backend solution built with FastAPI to 
 - <b>Technologies: 
    - Python
    - FastAPI
+   - postman
    - SQLlite<b/>
 
 ### Word-Wiz API
 [Word-Wiz-API Swagger Documentation ](https://word-wiz-be-bsws.onrender.com/docs)
 
-Word Wiz is a Spelling Application API is a FastAPI-based backend service designed to help users improve their spelling skills. 
+Word Wiz is a Spelling Application API, built as a group project is a FastAPI-based backend service designed to help users improve their spelling skills. 
 The application provides endpoints for various features, including:<b> Authentication, Blogs, Payments, Text-to-speech, Profile-picture,contact_us</b>
+I was responsible for implementing key components such as <b>payments, authentication, and the voice-to-text functionality.<b/>
 The api was consumed by both the frontend and the mobile app development team
 
 [Word-Wiz-Website ](https://word-wiz-fe.vercel.app/)
@@ -76,11 +79,28 @@ The api was consumed by both the frontend and the mobile app development team
   - Speech-to-Text API integration
   - SQLAlchemy
   - Paystack API
+  - postman
   - SQLite/PostgreSQL
   - Render<b/>
 
+### ATTENDANCE MANAGAEMENT SYSTEM API (AMS)
+[AMS Swagger Documentation ](https://attendance-management-system-api.onrender.com/docs)
+
+This API was developed using <b>Python FastAPI<b/> to manage employee attendance efficiently.The api was consumed by the frontend to developed the website
+- <b> It includes many key features:
+  - SignUP/Login
+  - Profile picure upload
+  - Attendance report
+  - Account details<b/>
 
 
+- <b>Technologies:
+  - Python, FastAPI
+  - cloudinary
+  - SQLAlchemy
+  - postman
+  - SQLite/PostgreSQL
+  - Render<b/>
 
 
 ## Contact Information 
