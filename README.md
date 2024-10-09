@@ -12,7 +12,9 @@
   
 - Worked on integrating Paystack for payment processing, allowing seamless handling of transactions via bank cards, resulting in a more secure and efficient payment flow.
   
-- Developed a Phone Inventory System api  consumed by the frontend team
+- Developed a Phone Inventory System api consumed by the frontend 
+  
+- Developed an Attendance Management System (AMS) API consumend by the frontend 
   
 - Developed games(Snake games, Ping_Pong game, Turtle Racing game) using python tkiner
 
@@ -44,12 +46,13 @@ Developed a Phone Inventory System api using **Python FastAPI**. The Phone Inven
 ### Personal Portfolio API
 [Github Repository link](https://github.com/Precious-Udoibok/Personal-Portfolio-API)
 
-The Personal Portfolio API is a powerful backend solution built with FastAPI to manage a personal portfolio website. It provides a robust set of features for handling:
+The Personal Portfolio API is a powerful backend solution built with FastAPI to manage a personal portfolio website. 
+<b>It provides a robust set of features for handling:
 <ol>
 <li>Projects: Create, update, delete, and view your projects.</li>
 <li>Blog Posts: Manage blog content with endpoints to add, edit, delete, and retrieve posts.</li>
 <li>Contact Information: Store and manage contact details with secure access.</li>
-</ol>
+</ol><b/>
 
 - <b>Technologies: 
    - Python
@@ -62,7 +65,9 @@ The Personal Portfolio API is a powerful backend solution built with FastAPI to 
 
 Word Wiz is a Spelling Application API, built as a group project is a FastAPI-based backend service designed to help users improve their spelling skills. 
 The application provides endpoints for various features, including:<b> Authentication, Blogs, Payments, Text-to-speech, Profile-picture,contact_us</b>
-I was responsible for implementing key components such as <b>payments, authentication, and the voice-to-text functionality.<b/>
+
+I was responsible for implementing key components such as <b>payments, authentication, and the voice-to-text functionality<b/>
+
 The api was consumed by both the frontend and the mobile app development team
 
 [Word-Wiz-Website ](https://word-wiz-fe.vercel.app/)
@@ -86,12 +91,12 @@ The api was consumed by both the frontend and the mobile app development team
 ### ATTENDANCE MANAGAEMENT SYSTEM API (AMS)
 [AMS Swagger Documentation ](https://attendance-management-system-api.onrender.com/docs)
 
-This API was developed using <b>Python FastAPI<b/> to manage employee attendance efficiently.The api was consumed by the frontend to developed the website
+This API was developed using **Python FastAPI** to manage employee attendance efficiently.The api was consumed by the frontend to developed the website
 - <b> It includes many key features:
-  - SignUP/Login
-  - Profile picure upload
-  - Attendance report
-  - Account details<b/>
+  - User Authentication(Signup/Login)
+  - Profile picture upload
+  - Attendance report: This report provides a comprehensive overview of employee attendance, detailing check-in and check-out times, work hours and break hours.
+  - Account details: More information about the user<b/>
 
 
 - <b>Technologies:
