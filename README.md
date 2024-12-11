@@ -8,7 +8,9 @@
 
 ## Work Experience
 **Backend Intern @ KodeHauz Solutions Planets (_October 2024 - still date_)**
+
 **IT(Industrial Training) student @ KodeHauz Solutions Planets (_March 2024 - August 2024_)**
+
 - Developed an inventory management system for a car store, improving data processing speed and operational efficiency.
   
 - Worked on integrating Paystack for payment processing, allowing seamless handling of transactions via bank cards, resulting in a more secure and efficient payment flow.
