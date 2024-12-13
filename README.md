@@ -9,6 +9,16 @@
 ## Work Experience
 **Backend Intern @ KodeHauz Solutions Planets (_October 2024 - still date_)**
 
+- Contributed to the creation of scalable APIs and backend systems written in Python using FastAPI.
+  
+- Worked with cross-functional team (mobile, frontend, UI/UX designers and DevOps developers) to implement essential features of gaming project.
+  
+- Worked on the workflow of structures for the storage of game history of the users, in order to optimize data retrieval and management.
+  
+- Have participated in code reviews and contributed to improving code quality and process improvements.
+  
+- Developed task prioritization and teamwork experience in a high-pressure academic environment.
+
 **IT(Industrial Training) student @ KodeHauz Solutions Planets (_March 2024 - August 2024_)**
 
 - Developed an inventory management system for a car store, improving data processing speed and operational efficiency.
