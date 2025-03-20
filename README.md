@@ -103,6 +103,8 @@ The api was consumed by both the frontend and the mobile app development team
   - SQLite/PostgreSQL
   - Render<b/>
 
+![WordWiz Website ](assets/img/word-wiz website.PNG)
+
 ### ATTENDANCE MANAGAEMENT SYSTEM API (AMS)
 [AMS Swagger Documentation ](https://attendance-management-system-api.onrender.com/docs)
 
